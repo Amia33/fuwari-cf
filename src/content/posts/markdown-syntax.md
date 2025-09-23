@@ -89,7 +89,7 @@ This is another paragraph.
 
 ## Image
 
-![Banner](/images/banner.jpg)
+![Banner](https://object.amia.work/images/banner.jpg)
 
 ## List
 
