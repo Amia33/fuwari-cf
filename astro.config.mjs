@@ -180,6 +180,7 @@ export default defineConfig({
         "node:fs/promises",
         "node:url",
         "node:crypto",
+        "crypto",
       ],
     },
   },
