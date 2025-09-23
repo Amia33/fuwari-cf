@@ -172,6 +172,16 @@ export default defineConfig({
         },
       },
     },
+    ssr: {
+      external: [
+        "node:path",
+        "stream",
+        "util",
+        "node:fs/promises",
+        "node:url",
+        "node:crypto",
+      ],
+    },
   },
 
   adapter: cloudflare({
