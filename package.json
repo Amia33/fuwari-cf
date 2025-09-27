@@ -27,12 +27,12 @@
     "@iconify-json/fa6-brands": "^1.2.6",
     "@iconify-json/fa6-regular": "^1.2.4",
     "@iconify-json/fa6-solid": "^1.2.4",
-    "@iconify-json/material-symbols": "^1.2.38",
+    "@iconify-json/material-symbols": "^1.2.39",
     "@iconify/svelte": "^5.0.2",
     "@swup/astro": "^1.7.0",
     "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^24.5.2",
-    "astro": "^5.13.11",
+    "astro": "^5.14.1",
     "astro-expressive-code": "^0.41.3",
     "astro-icon": "^1.1.5",
     "hastscript": "^9.0.1",
@@ -71,6 +71,6 @@
     "postcss-nesting": "^13.0.2",
     "prettier": "^3.6.2",
     "prettier-plugin-svelte": "^3.4.0",
-    "wrangler": "^4.40.0"
+    "wrangler": "^4.40.2"
   }
 }
